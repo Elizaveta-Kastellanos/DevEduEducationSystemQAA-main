@@ -1,0 +1,13 @@
+﻿global using FluentAssertions;
+global using NUnit;
+global using TechTalk.SpecFlow;
+global using OpenQA.Selenium;
+global using OpenQA.Selenium.Chrome;
+global using DevEduEducationSystemQAA.WEB.Tests.Support;
+global using DevEduEducationSystemQAA.WEB.Tests.Support.ViewModels;
+global using TechTalk.SpecFlow.Assist;
+global using DevEduEducationSystemQAA.WEB.Tests.Support.XPaths;
+global using NUnit.Framework;
+global using System.Drawing;
+global using OpenQA.Selenium.Interactions;
+global using OpenQA.Selenium.Support.UI;
